@@ -1,3 +1,5 @@
+package br.edu.up.models;
+
 public class Professor extends Pessoa {
     private String lattes;
     private Titulacao titulacao;
