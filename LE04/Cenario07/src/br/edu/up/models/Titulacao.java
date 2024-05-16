@@ -1,3 +1,5 @@
+package br.edu.up.models;
+
 public class Titulacao {
     private String nomeInstituicao;
     private int anoConclusao;
