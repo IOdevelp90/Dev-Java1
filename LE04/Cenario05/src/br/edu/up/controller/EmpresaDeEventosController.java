@@ -1,3 +1,4 @@
+package br.edu.up.controller;
 import br.edu.up.*;
 
 public class EmpresaDeEventosController {
