@@ -1,3 +1,6 @@
+package br.edu.up.view;
+import br.edu.up.*;
+
 public class ClienteView {
     private ClienteController controller;
     private Scanner scanner;
