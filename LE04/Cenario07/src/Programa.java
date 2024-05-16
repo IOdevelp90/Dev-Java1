@@ -1,4 +1,4 @@
-import.br.edu.br.models
+import.br.edu.br.models;
 import.br.edu.br.controllers;
 import.br.edu.br.view;
 
