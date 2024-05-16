@@ -1,3 +1,5 @@
+package br.edu.up.models;
+
 public class Competencia {
     private String nome;
     private TipoCompetencia tipo;
