@@ -1,3 +1,8 @@
+import br.edu.up.controller;
+import br.edu.up.models;
+import br.edu.up.view;
+
+
 public class Programa {
     public static void main(String[] args) {
         ClienteController controller = new ClienteController();
