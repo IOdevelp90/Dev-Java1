@@ -1,3 +1,5 @@
+package br.edu.up.models;
+
 public class Pessoa {
     private String nome;
     private String rg;
