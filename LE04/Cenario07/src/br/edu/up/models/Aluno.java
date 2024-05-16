@@ -1,3 +1,5 @@
+package br.edu.up.models;
+
 public class Aluno extends Pessoa {
     private int anoIngresso;
     private String nomeCurso;
