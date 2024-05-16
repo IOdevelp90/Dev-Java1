@@ -1,5 +1,5 @@
 package br.edu.up.models;
-import br.edu.up.*
+import br.edu.up.*;
 
 public class Aluno extends Pessoa {
     private int anoIngresso;
