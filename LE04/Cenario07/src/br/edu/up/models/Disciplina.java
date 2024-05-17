@@ -1,4 +1,4 @@
-package br.edu.up;
+package br.edu.up.models;
 import java.util.HashSet;
 import java.util.Set;
 
