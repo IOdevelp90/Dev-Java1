@@ -1,5 +1,5 @@
 package br.edu.up.view;
-import br.edu.up.*;
+
 import java.util.Scanner;
 
 public class EmpresaDeEventosView {
