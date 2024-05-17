@@ -5,19 +5,15 @@ public class Compromisso {
     private String local;
     private String pessoa;
     private int hora;
-    private int dia;
-    private int mes;
-    private int ano;
+    private int[] data; // Vetor para armazenar dia, mês e ano
 
     // Construtor
-    public Compromisso(String assunto, String local, String pessoa, int hora, int dia, int mes, int ano) {
+    public Compromisso(String assunto, String local, String pessoa, int hora, int[] data) {
         this.assunto = assunto;
         this.local = local;
         this.pessoa = pessoa;
         this.hora = hora;
-        this.dia = dia;
-        this.mes = mes;
-        this.ano = ano;
+        this.data = data;
     }
 
     // Getters e setters
@@ -53,27 +49,11 @@ public class Compromisso {
         this.hora = hora;
     }
 
-    public int getDia() {
-        return dia;
+    public int[] getData() {
+        return data;
     }
 
-    public void setDia(int dia) {
-        this.dia = dia;
-    }
-
-    public int getMes() {
-        return mes;
-    }
-
-    public void setMes(int mes) {
-        this.mes = mes;
-    }
-
-    public int getAno() {
-        return ano;
-    }
-
-    public void setAno(int ano) {
-        this.ano = ano;
+    public void setData(int[] data) {
+        this.data = data;
     }
 }
