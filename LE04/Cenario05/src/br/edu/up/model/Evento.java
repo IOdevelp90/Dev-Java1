@@ -1,5 +1,4 @@
 package br.edu.up.model;
-import br.edu.up.*;
 import java.time.LocalDate;
 import java.util.List;
 import java.util.ArrayList;
