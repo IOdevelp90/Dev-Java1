@@ -1,5 +1,5 @@
 package br.edu.up.models;
-import br.edu.up.*;
+
 
 public abstract class Cliente {
     protected int codigo;
