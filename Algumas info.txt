@@ -1,0 +1,3 @@
+Prof eu fiz os cenarios dos numeros impares, meu parceiro tem todos os codigos, nós colaboramos em todos os cenarios feitos. Eu armazenei apenas os impares, mas fiz tambem os pares no outro
+repositorio.
+E o repositorio do Daniel: https://github.com/Nebula-Forge/Desenvolvimento-de-Software-JAVA/tree/main
